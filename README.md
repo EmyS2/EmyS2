@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EmyS2
 - 👀 I’m interested in  desenvolvimento Java.
 - 🌱 I’m currently learning  programação Java.
-- 💞️ I’m looking to collaborate on algum projeto que eu tenha certo conhecimento, possa contribui para melhorar e estarei sempre aceitando ajuda de outras pessoas também.
+- 💞️ I’m looking to collaborate on algum projeto que eu tenha certo conhecimento, possa contribuir para melhorar e estarei sempre aceitando ajuda de outras pessoas também.
 - 📫 How to reach me: Vocês podem chegar até mim por meio do meu  instagram onde estou sempre postando desenhos já que trabalho como web designer freelancer , designs de tatuagen s e social media.
 @AnddyCDraw
 Podem entrar em contato comigo por email: emily.abade@gmail.com -
