@@ -7,7 +7,7 @@
 - @Emycdraw (instagram profissional de web design e social mídia)
 - Podem entrar em contato comigo por email: emily.abade@gmail.com -
 linkedin:  https://www.linkedin.com/in/emily-abade-915892228/   
-- Eu tenho até agora 42 certificados de cursos.
+- Eu tenho até agora 45 certificados de cursos.
 
 <!---
 EmyS2/EmyS2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
